@@ -1,4 +1,5 @@
 <h1>Student Management System</h1>
+
 <p id="description">Welcome to the Student Management System project, a comprehensive tool designed to streamline the management of student information in educational institutions. This system is built to simplify the tracking of students, their academic departments, contracts, and team assignments. With a rich set of features and a well-structured data model, it ensures efficient administration and organization of student data.</p>
 <h1>Key Classes and Relationships</h1>
 
