@@ -21,9 +21,8 @@ public class Etudiant implements Serializable {
     private Integer idEtudiant; // Clé primaire
     private String prenomE;
     private String nomE;
-    @Enumerated(EnumType.STRING)
     @Column(name = "option_etud")
-    private Option option;
+    private String option;
     @ManyToOne(cascade = CascadeType.ALL)
     Departement departement ;
 
