@@ -5,7 +5,7 @@ metadata:
   namespace: devops
 type: Opaque
 data:
-  mysql-root-password: 123   # "root" encodé en base64
+  mysql-root-password: cm9vdA==   # "root" encodé en base64
   mysql-database: khaddemdb     # "khaddemdb" encodé en base64
 ---
 apiVersion: apps/v1
